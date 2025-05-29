@@ -36,7 +36,7 @@ Creating responsive, accessible, and performant user interfaces.
 Building robust, scalable, and secure APIs and backend systems.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,prisma" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" alt="Backend Skills" />
 </p>
 
 
