@@ -40,23 +40,6 @@ I’m a passionate and results-driven **Full Stack Web Developer** with a focus 
 
 ---
 
-### 🚀 Featured Projects
-
-Here are a few projects I'm proud of:
-
-- 🧑‍🎨 [Portfolio Website](https://github.com/MBappy-404/portfolio)  
-  *Modern, responsive portfolio built with Next.js & TailwindCSS.*
-
-- ✅ [Advanced Todo App](https://github.com/MBappy-404/todo-app)  
-  *Realtime drag-and-drop task manager with Firebase and notifications.*
-
-- 🛒 [MERN E-commerce Store](https://github.com/MBappy-404/ecommerce-store)  
-  *Full-stack shopping app with JWT auth, Stripe payments, admin dashboard.*
-
-> Want more? Check out my pinned repositories!
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
