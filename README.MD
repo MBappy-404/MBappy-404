@@ -21,21 +21,24 @@ I’m a passionate **Full Stack Web Developer** focused on building responsive, 
 
 ### 🛠️ Tech Stack
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<!-- Skills Section with SkillIcons -->
 
-**Backend & DB**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### 🎨 Frontend Development
+Creating responsive, accessible, and performant user interfaces.
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,framer" alt="Frontend Skills" />
+</p>
+
+---
+
+### 🛠 Backend Development
+Building robust, scalable, and secure APIs and backend systems.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,prisma" alt="Backend Skills" />
+</p>
+
 
 ---
 
