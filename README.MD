@@ -1,72 +1,77 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Full-Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
+<!-- Header Section -->
+<h1 align="center">👋 Hi, I'm Saroar Jahan Bappy</h1>
+<h3 align="center">Full Stack Developer | MERN Specialist | Passionate Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&lines=Passionate+about+building+cool+projects;Always+learning+something+new;Clean+code+and+scalable+solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Transforming+ideas+into+real-world+apps;Clean%2C+Scalable+%26+Performant+Code;MERN+Stack+%7C+Next.js+%7C+TailwindCSS+%7C+MongoDB" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🌟 About Me
 
-- 🔭 I’m currently working on **[Project Name or Topic]**
-- 🌱 I’m learning **[Latest Technologies or Concepts]**
-- 💬 Ask me about **React, Node.js, TypeScript, DevOps, Tiptap**
-- ⚡ Fun fact: *I write code and brew coffee with the same intensity*
+🚀 I’m a dedicated **Full Stack Developer** who loves building modern web applications with a sharp eye for UI/UX. With a strong foundation in **React.js**, **Node.js**, and **MongoDB**, I specialize in delivering **scalable and maintainable** applications.
+
+- 🔭 Currently building full-stack apps using **Next.js** and **TailwindCSS**
+- 🌱 Learning more about **DevOps** and **AI integration in web apps**
+- 🧩 I enjoy solving complex problems and optimizing performance
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/saroar-jahan-bappy/)
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+### 🛠 Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express)
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
-**Database & DevOps**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+**Tools & DevOps**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat-square)
+
+---
+
+### 📌 Featured Projects
+
+<!-- Replace these with real repo links -->
+- 🔥 [Awesome Portfolio Website](https://github.com/your-username/portfolio) – Sleek, responsive personal portfolio built with Next.js & TailwindCSS  
+- 🧠 [Smart Todo App](https://github.com/your-username/todo-app) – Real-time task management with drag-and-drop, notifications, and Firebase integration  
+- 🛍 [E-commerce Store](https://github.com/your-username/ecommerce-store) – Full-stack MERN shopping experience with authentication and Stripe payments
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=saroarjahanbappy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saroarjahanbappy&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 🔗 Connect With Me
 
-- 🔥 [**Awesome Project 1**](https://github.com/your-username/project1)  
-  _Brief description with emojis and tech used_  
-- 💻 [**Awesome Project 2**](https://github.com/your-username/project2)  
-  _What it does and why it's cool_
-
----
-
-### 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox)](https://your-portfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)  
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000?style=flat-square&logo=dev.to)](https://dev.to/yourusername)
+<p align="center">
+  <a href="https://www.linkedin.com/in/saroar-jahan-bappy/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/saroarjahanbappy" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=saroarjahanbappy&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
