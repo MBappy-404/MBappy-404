@@ -13,7 +13,7 @@
 I’m a passionate **Full Stack Web Developer** focused on building responsive, performant, and user-friendly applications using modern technologies.
 
 - 🔭 Working with **Next.js**, **Tailwind CSS**, and **TypeScript**
-- ⚙️ Exploring **DevOps**, **AI integration**, and **Serverless**
+- ⚙️ Exploring **Web 3.0**
 - 💡 Passionate about clean code and UX-first design
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/saroar-jahan-bappy/)
 
