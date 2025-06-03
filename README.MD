@@ -1,4 +1,8 @@
-<!-- Hero Section -->
+<!-- Cover Banner -->
+<p align="center">
+  <img src="https://placehold.co/1600x400/0a66c2/FFFFFF?text=Saroar+Jahan+Bappy's+Developer+Portfolio" alt="Cover Banner" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Saroar Jahan Bappy</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Specialist | UI/UX Enthusiast</h3>
 
@@ -10,35 +14,53 @@
 
 ### 🌟 About Me
 
-I’m a passionate **Full Stack Web Developer** focused on building responsive, performant, and user-friendly applications using modern technologies.
+I'm a passionate **Full Stack Developer** specializing in the MERN stack with expertise in building responsive, performant, and user-friendly applications. My focus areas include:
 
-- 🔭 Working with **Next.js**, **Tailwind CSS**, and **TypeScript**
-- ⚙️ Exploring **Web 3.0**
-- 💡 Passionate about clean code and UX-first design
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/saroar-jahan-bappy/)
+- 🔭 **Professional Focus**: Next.js, TypeScript, and modern UI frameworks
+- ⚙️ **Current Exploration**: Web 3.0 technologies and blockchain integration
+- 💡 **Development Philosophy**: Clean code architecture + UX-first design principles
+- 📚 **Continuous Learning**: Currently mastering advanced backend optimization techniques
 
 ---
 
 ### 🛠️ Tech Stack
 
-<!-- Skills Section with SkillIcons -->
-
-### 🎨 Frontend Development
-Creating responsive, accessible, and performant user interfaces.
-
+#### 🎨 Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,framer" alt="Frontend Skills" />
 </p>
 
----
-
-### 🛠 Backend Development
-Building robust, scalable, and secure APIs and backend systems.
-
+#### ⚙️ Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" alt="Backend Skills" />
 </p>
 
+#### 🔧 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vscode" alt="DevOps Skills" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### [E-Commerce Platform](https://github.com/MBappy-404/ecommerce-platform)
+![Project Cover](https://placehold.co/600x400/0a66c2/FFFFFF?text=E-Commerce+Platform)
+✔️ Full-featured shopping platform with payment integration  
+✔️ Tech: Next.js, Stripe API, MongoDB, TailwindCSS  
+✔️ [Live Demo](https://ecommerce-demo.com) | [Source Code](https://github.com/MBappy-404/ecommerce-platform)
+
+#### [Task Management System](https://github.com/MBappy-404/task-manager)
+![Project Cover](https://placehold.co/600x400/00BFFF/FFFFFF?text=Task+Manager)
+✔️ Real-time collaborative task management application  
+✔️ Tech: React, Socket.io, Express, JWT Auth  
+✔️ [Live Demo](https://task-manager-demo.com) | [Source Code](https://github.com/MBappy-404/task-manager)
+
+#### [Social Media Dashboard](https://github.com/MBappy-404/social-dashboard)
+![Project Cover](https://placehold.co/600x400/8A2BE2/FFFFFF?text=Social+Dashboard)
+✔️ Analytics dashboard with real-time data visualization  
+✔️ Tech: TypeScript, D3.js, Node.js, PostgreSQL  
+✔️ [Live Demo](https://social-dashboard-demo.com) | [Source Code](https://github.com/MBappy-404/social-dashboard)
 
 ---
 
@@ -47,6 +69,10 @@ Building robust, scalable, and secure APIs and backend systems.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MBappy-404&show_icons=true&hide_title=true&hide_rank=false&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MBappy-404&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBappy-404&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -62,6 +88,9 @@ Building robust, scalable, and secure APIs and backend systems.
   </a>
   <a href="https://github.com/MBappy-404" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/SaroarDev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
