@@ -1,6 +1,6 @@
 <!-- Cover Banner -->
 <p align="center">
-  <img src="https://placehold.co/1600x400/0a66c2/FFFFFF?text=Saroar+Jahan+Bappy's+Developer+Portfolio" alt="Cover Banner" />
+  <img src="https://res.cloudinary.com/dquplidvy/image/upload/v1748962124/Gray_Minimalist_Web_Development_Linkedin_Banner_mhagzp.png" alt="Cover Banner" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Saroar Jahan Bappy</h1>
