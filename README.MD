@@ -44,23 +44,26 @@ I'm a passionate **Full Stack Developer** specializing in the MERN stack with ex
 
 ### 🚀 Featured Projects
 
-#### [E-Commerce Platform](https://github.com/MBappy-404/ecommerce-platform)
-![Project Cover](https://placehold.co/600x400/0a66c2/FFFFFF?text=E-Commerce+Platform)
-✔️ Full-featured shopping platform with payment integration  
-✔️ Tech: Next.js, Stripe API, MongoDB, TailwindCSS  
-✔️ [Live Demo](https://ecommerce-demo.com) | [Source Code](https://github.com/MBappy-404/ecommerce-platform)
+#### [Cineverse](https://github.com/MBappy-404/cineverse)
+![Project Cover](https://placehold.co/600x400/8A2BE2/FFFFFF?text=Cineverse)
+✔️ Movie streaming platform with purchase/rental options  
+✔️ Features: Movie catalog, payment processing, user reviews  
+✔️ Tech: TypeScript, Prisma, Express.js, Tailwind CSS, Stripe  
+✔️ [Live Demo](https://cineverse-demo.com) | [Source Code](https://github.com/MBappy-404/cineverse)
 
-#### [Task Management System](https://github.com/MBappy-404/task-manager)
-![Project Cover](https://placehold.co/600x400/00BFFF/FFFFFF?text=Task+Manager)
-✔️ Real-time collaborative task management application  
-✔️ Tech: React, Socket.io, Express, JWT Auth  
-✔️ [Live Demo](https://task-manager-demo.com) | [Source Code](https://github.com/MBappy-404/task-manager)
+#### [FoodPa](https://github.com/MBappy-404/foodpa)
+![Project Cover](https://placehold.co/600x400/0a66c2/FFFFFF?text=FoodPa)
+✔️ Modern food ordering platform with wishlist and admin panel  
+✔️ Features: User accounts, food catalog, wishlist, payment processing  
+✔️ Tech: React, Tailwind CSS, Ant Design, Node.js, Express.js, MongoDB, Firebase, Vercel, SweetAlert, Stripe  
+✔️ [Live Demo](https://foodpa-demo.com) | [Source Code](https://github.com/MBappy-404/foodpa)
 
-#### [Social Media Dashboard](https://github.com/MBappy-404/social-dashboard)
-![Project Cover](https://placehold.co/600x400/8A2BE2/FFFFFF?text=Social+Dashboard)
-✔️ Analytics dashboard with real-time data visualization  
-✔️ Tech: TypeScript, D3.js, Node.js, PostgreSQL  
-✔️ [Live Demo](https://social-dashboard-demo.com) | [Source Code](https://github.com/MBappy-404/social-dashboard)
+#### [Uedify](https://github.com/MBappy-404/uedify)
+![Project Cover](https://placehold.co/600x400/00BFFF/FFFFFF?text=Uedify)
+✔️ Marketplace for buying and selling used products  
+✔️ Features: Product listings, search filters, user transactions, ratings  
+✔️ Tech: Next.js, TypeScript, MongoDB, Express.js, Tailwind CSS  
+✔️ [Live Demo](https://uedify-demo.com) | [Source Code](https://github.com/MBappy-404/uedify)
 
 ---
 
