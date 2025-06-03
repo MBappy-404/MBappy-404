@@ -1,13 +1,6 @@
 <!-- Cover Banner -->
 <p align="center">
-  <div style="position: relative; width: 100%; height: 0; padding-top: 30.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGpTl6L-2Q/kqwtATPxa_Kch8apd85vXg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGpTl6L-2Q&#x2F;kqwtATPxa_Kch8apd85vXg&#x2F;view?utm_content=DAGpTl6L-2Q&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Gray Minimalist Web Development Linkedin Banner</a> by Muhammad bappy
+  <img src="https://placehold.co/1600x400/0a66c2/FFFFFF?text=Saroar+Jahan+Bappy's+Developer+Portfolio" alt="Cover Banner" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Saroar Jahan Bappy</h1>
