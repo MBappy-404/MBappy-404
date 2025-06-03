@@ -42,30 +42,6 @@ I'm a passionate **Full Stack Developer** specializing in the MERN stack with ex
 
 ---
 
-### 🚀 Featured Projects
-
-#### [Cineverse](https://github.com/MBappy-404/cineverse)
-![Project Cover](https://placehold.co/600x400/8A2BE2/FFFFFF?text=Cineverse)
-✔️ Movie streaming platform with purchase/rental options  
-✔️ Features: Movie catalog, payment processing, user reviews  
-✔️ Tech: TypeScript, Prisma, Express.js, Tailwind CSS, Stripe  
-✔️ [Live Demo](https://cineverse-demo.com) | [Source Code](https://github.com/MBappy-404/cineverse)
-
-#### [FoodPa](https://github.com/MBappy-404/foodpa)
-![Project Cover](https://placehold.co/600x400/0a66c2/FFFFFF?text=FoodPa)
-✔️ Modern food ordering platform with wishlist and admin panel  
-✔️ Features: User accounts, food catalog, wishlist, payment processing  
-✔️ Tech: React, Tailwind CSS, Ant Design, Node.js, Express.js, MongoDB, Firebase, Vercel, SweetAlert, Stripe  
-✔️ [Live Demo](https://foodpa-demo.com) | [Source Code](https://github.com/MBappy-404/foodpa)
-
-#### [Uedify](https://github.com/MBappy-404/uedify)
-![Project Cover](https://placehold.co/600x400/00BFFF/FFFFFF?text=Uedify)
-✔️ Marketplace for buying and selling used products  
-✔️ Features: Product listings, search filters, user transactions, ratings  
-✔️ Tech: Next.js, TypeScript, MongoDB, Express.js, Tailwind CSS  
-✔️ [Live Demo](https://uedify-demo.com) | [Source Code](https://github.com/MBappy-404/uedify)
-
----
 
 ### 📊 GitHub Overview
 
